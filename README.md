@@ -72,7 +72,7 @@ This project aims to streamline and optimize various aspects of AtliQ Hardwres b
 
 ### Learnt Power BI fundamentals
 
-1. creating calcualting columns and DAX measures
+1.creating calcualting columns and DAX measures
    
 2.Data Modelling ,data validation techniques and using KPI indicators
 
